@@ -27,7 +27,7 @@
 
 ### 🚀 Proyectos Destacados:
 
-- [**Proyecto 1 - Web de E-commerce**](https://github.com/tuusuario/proyecto1)
+- [**Proyecto 1 - Web de E-commerce**](https://github.com/NISCALOOK/Web-de-E-commerce)
   - Desarrollado con React y Node.js, integrando pagos con Stripe y autenticación con Firebase.
   - ![Imagen del proyecto](URL-de-imagen-del-proyecto)
 
