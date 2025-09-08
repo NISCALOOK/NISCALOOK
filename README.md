@@ -24,11 +24,6 @@
 
 - [**Proyecto 1 - Web de E-commerce**](https://github.com/NISCALOOK/Web-de-E-commerce)
   - Desarrollado con React y Node.js, integrando pagos con Stripe y autenticación con Firebase.
-  - ![Imagen del proyecto](URL-de-imagen-del-proyecto)
-
-- [**Proyecto 2 - Sistema de Gestión de Tareas**](https://github.com/tuusuario/proyecto2)
-  - Aplicación full stack desarrollada con Java y Spring Boot en el backend, y React en el frontend.
-  - ![Imagen del proyecto](URL-de-imagen-del-proyecto)
 
 ---
 
